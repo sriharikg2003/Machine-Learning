@@ -1,4 +1,4 @@
 # Machine-Learning
-This includes a lot of machine learning projects 
+This repo consists of Jupyter notebooks which were used for learning purposes as a part of course taken on Udemy 
 
-These projects were made as a part ofa course taken on Udemy
+Course Instructor : Jose Portila
